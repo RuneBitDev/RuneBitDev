@@ -1,8 +1,6 @@
 # Hi, I'm RuneBit
 **Computer Science Student @ University of Leipzig | Aspiring Gameplay Programmer**
 
-I specialize in **C++ systems architecture** and **inclusive UI/UX design**. I enjoy building games from the ground up and solving complex logistical problems through code.
-
 ---
 
 ### Featured Projects
@@ -12,16 +10,16 @@ I specialize in **C++ systems architecture** and **inclusive UI/UX design**. I e
 * **Tech:** C++, Raylib, SQLite
 * **Key Achievement:** Engineered a custom State Engine and Widget system to recreate the tactical depth of Gwent
 
-#### 🥗 [BornaBite](https://git.informatik.uni-leipzig.de/SWS/lehre/ws-2024-2025/swt-p/projects/group-07)
+#### 🥗 [BornaBite](https://github.com/RuneBitDev/BornaBite)
 *Award-Winning Accessible Web Application*
 * **Tech:** Vue.js, Springboot, MySql
-* **Key Achievement:** **Winner (1st/16)** of the University of Leipzig Industry Competition
+* **Key Achievement:** **Winner** of the University of Leipzig Industry Competition
 
 ---
 
 ### 🛠 Technical Toolbox
-* [cite_start]**Languages:** C++, SQL, Python, JavaScript[cite: 9, 14, 22].
-* [cite_start]**Tools & Frameworks:** Raylib, SQLite, ComfyUI/FLUX[cite: 4, 9, 14, 17].
+* **Languages:** C++, SQL, Python, JavaScript
+* **Tools & Frameworks:** Raylib, Vue, SQLite, ComfyUI/FLUX
 
 ---
 
