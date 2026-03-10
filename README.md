@@ -9,13 +9,13 @@ I specialize in **C++ systems architecture** and **inclusive UI/UX design**. I e
 
 #### 🃏 [PROJECT null](https://github.com/RuneBitDev/project_null) 
 *Custom 2D Game Engine & Tactical Card Game*
-* [cite_start]**Tech:** C++, Raylib, SQLite[cite: 13, 14].
-* [cite_start]**Key Achievement:** Engineered a custom State Engine and Widget system to recreate the tactical depth of Gwent[cite: 13, 15].
+* **Tech:** C++, Raylib, SQLite
+* **Key Achievement:** Engineered a custom State Engine and Widget system to recreate the tactical depth of Gwent
 
-#### 🥗 [BornaBite](link-to-shadow-repo)
+#### 🥗 [BornaBite](https://git.informatik.uni-leipzig.de/SWS/lehre/ws-2024-2025/swt-p/projects/group-07)
 *Award-Winning Accessible Web Application*
-* [cite_start]**Tech:** Vue.js, Springboot, MySql[cite: 18, 21].
-* [cite_start]**Key Achievement:** **Winner (1st/16)** of the University of Leipzig Industry Competition
+* **Tech:** Vue.js, Springboot, MySql
+* **Key Achievement:** **Winner (1st/16)** of the University of Leipzig Industry Competition
 
 ---
 
@@ -26,4 +26,4 @@ I specialize in **C++ systems architecture** and **inclusive UI/UX design**. I e
 ---
 
 ### 📬 Connect with me
-* **EMail:** [contact@runebitdev.com]
+* **EMail:** contact@runebitdev.com
