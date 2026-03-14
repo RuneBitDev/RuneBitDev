@@ -10,7 +10,7 @@
 * **Tech:** C++, Raylib, SQLite
 * **Key Achievement:** Engineered a custom State Engine and Widget system to recreate the tactical depth of Gwent
 
-#### 🥗 [BornaBite](https://github.com/RuneBitDev/BornaBite)
+#### 🥗 [BornaBite](https://github.com/RuneBitDev/BornaBite-Showcase)
 *Award-Winning Accessible Web Application*
 * **Tech:** Vue.js, Springboot, MySql
 * **Key Achievement:** **Winner** of the University of Leipzig Industry Competition
